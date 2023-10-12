@@ -1,5 +1,4 @@
-﻿
-string path = @"D:\\programming guyyys";
+﻿string path = @"D:\\programming guyyys";
 
 DirectoryInfo directoryInfo = new DirectoryInfo(path);
 
